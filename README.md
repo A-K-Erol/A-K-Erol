@@ -1,12 +1,12 @@
 ## Nice to meet you! 👋
 
-My name is Ansel, and I'm a BS/MS Computer Science student at Georgia Tech! 
+My name is Ansel. I'm a Forward-Deployed Engineer at Baseten, and a proud graduate of Georgia Tech!
 
 🔭 I'm interested in the challenges of deploying real-time, high-throughput software systems at scale - for analytical, machine learning, and transaction processing workloads. I have featured a multitude of projects across those domains on my public portfolio.
 
-My experience includes software engineering at Google (private ML ad infra), Travelers Insurance (data operations) and research in Distributed Machine Learning, Operations Research/Optimization, and Natural Language Processing.
+My experience includes software engineering at Google (private ML ad infra), Travelers Insurance (data operations) and research in Distributed Machine Learning, Operations Research/Optimization, and Natural Language Processing. See more on my [personal website](https://ansel.fyi).
 
- 📫 The best place to reach me is via LinkedIn: www.linkedin.com/in/ansel-erol.
+ 📫 The best place to reach me is [LinkedIn](www.linkedin.com/in/ansel-erol). 
 
 <!--
 **A-K-Erol/A-K-Erol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
